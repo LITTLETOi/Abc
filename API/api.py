@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # Configurações
-BOT_TOKEN = "SEU_TOKEN_AQUI"
+BOT_TOKEN = "8191885274:AAGA5_UwWzkFFzvloC_O3i8JVCziQS4gkXE"
 ADMIN_IDS = [8183673253]
 VIP_USERS = [8183673253]
 ALLOWED_GROUPS = [-4781844651]
